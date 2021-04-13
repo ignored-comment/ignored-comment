@@ -3,6 +3,7 @@
 ##### Thank you for visiting my Github!
 
 - 🔭 I’m currently working on Ruby on Rails (Active Record, Database Management)
+- I'm familiar with: HTML, JavaScript, and CSS
 - 📫 How to reach me: email: contact@konkham.com
 <!--
 **ignored-comment/ignored-comment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
