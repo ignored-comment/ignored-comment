@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Ruby on Rails (Active Record, Database Management)
 - I've worked with: HTML, JavaScript, CSS, Ruby, Ruby on Rails, and PostgreSQL
 - 📫 How to reach me: contact@konkham.com
-- Visit me at https://konkham.com
+- Visit me at https://kon-ham.github.io/
 <!--
 **ignored-comment/ignored-comment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
