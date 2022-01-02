@@ -2,7 +2,7 @@
 
 ##### Thank you for visiting my Github!
 
-- 📫 How to reach me: contact@konkham.com
+- 📫 How to reach me: info.konham@gmail.com or contact@konkham.com
 - Visit me at https://kon-ham.github.io/
 <!--
 **ignored-comment/ignored-comment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
