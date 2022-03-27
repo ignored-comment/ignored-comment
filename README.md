@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kon-ham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Below are my skills
-If I've used it at least once it is listed below. This means the below are a range of my skill from familiar to proficient. 
+If I've used it at least once it is listed below. This means the below are a range of my skills from familiar to proficient. 
 
 Please ask if you would like to know more.
 
