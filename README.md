@@ -10,7 +10,7 @@
   - AWS
   - Command Line Interface
   - Jira/Confluence
-- _I'm happy employed_.
+- _I'm happily employed_.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kon-ham)](https://github.com/anuraghazra/github-readme-stats)
 
