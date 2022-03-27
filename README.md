@@ -4,6 +4,12 @@
 
 - 📫 How to reach me: info.konham@gmail.com
 - Visit me at http://kon-ham.com
+- My current role involves using the following:
+  - Python
+  - Django
+  - AWS
+  - Command Line Interface
+  - Jira/Confluence
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kon-ham)](https://github.com/anuraghazra/github-readme-stats)
 
