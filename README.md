@@ -7,10 +7,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kon-ham)](https://github.com/anuraghazra/github-readme-stats)
 
-## Below are my skills
-If I've used it at least once it is listed below. This means the below are a range of my skills from familiar to proficient. 
+## My skills
+If I've used it at least once it is listed below. 
 
-Please ask if you would like to know more.
+This means the below are a range of my skills from familiar to proficient. Please ask if you would like to know specifics!
 
 ### Languages/Frameworks/Platforms
 ![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
