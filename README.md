@@ -4,9 +4,10 @@
 
 - 📫 How to reach me: info.konham@gmail.com
 - Visit me at http://kon-ham.com
-- My current role involves using the following:
+- My current role as a *Forward Deployed Software Engineer* involves using the following:
   - Python
   - Django
+  - Shell+
   - AWS
   - Command Line Interface
   - Jira/Confluence
