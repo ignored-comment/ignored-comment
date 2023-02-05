@@ -1,9 +1,6 @@
-# Hi, Kon here! 👋
 
 ## Thank you for visiting my Github!
 
-- 📫 How to reach me: info.konham@gmail.com
-- Visit me at http://kon-ham.com
 - My current role as a **Forward Deployed Software Engineer** involves using the following:
   - Python
   - Django
@@ -13,8 +10,6 @@
   - Jira/Confluence
   - Docker
 - _I'm happily employed_.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kon-ham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My skills
 If I've used it at least once it is listed below. 
