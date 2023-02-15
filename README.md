@@ -1,15 +1,25 @@
 
 ## Thank you for visiting my Github!
 
-- My current role as a **Forward Deployed Software Engineer** involves using the following:
-  - Python
-  - Django
-  - Shell+
-  - AWS
-  - Command Line Interface
-  - Jira/Confluence
-  - Docker
-- _I'm happily employed_.
+My current tech stack: **Python, Django, Ruby, Rails, PostgreSQL, AWS, Docker**
+
+I am currently employed as **Forward Deployed Software Engineer** at a rapidly growing and successful tech start-up.
+
+My current role involves software development at a rapid speed - sometimes I deliver custom feature requests within *24-48 hours*, with the daily challenge of balancing speed, proficiency, clean code, and feasibility given the resources I have on any given day.
+
+I am a strong communicator. I work daily with the support team, customer success managers, product team, core engineers and customers (who are typically engineering leaders in their own world) in order to understand and translate specific needs and pain points into a software driven solution.
+
+I also:
+- Troubleshoot bugs and features alongside core engineering teams
+- Being a customer facing software engineer, my team is the engineering team that is closest to the voice of the customer
+- Touch on bits and pieces of the deployment pipeline like Prefect.io, Bugsnag, Docker, AWS, and more
+- Must learn quickly what I don't know and translate that knowledge into words that a customer can easily understand
+- Work well under pressure. I must always provide an answer and software driven solution for the customer and provide that in a calm, collected, and cheerful persona
+- Work in service level agreements ranging from 24 hours out to one week. I work in a fast and rapid paced environment, and I do it cheerfully with my team. 
+
+That's about what I do in a nutshell!
+
+_I'm happily employed_.
 
 ## My skills
 If I've used it at least once it is listed below. 
