@@ -3,7 +3,7 @@
 
 My current tech stack: **Python, Django, PostgreSQL, AWS, Docker, Zendesk**
 
-I am currently employed as **Forward Deployed Software Engineer** at a quickly growing and successful tech start-up.
+I am currently employed as **Forward Deployed Software Engineer** at a rapidly growing and successful tech start-up.
 
 My current role involves software development at a rapid speed - sometimes I deliver custom feature requests within *24-48 hours*, with the daily challenge of balancing speed, proficiency, clean code, and feasibility given the resources I have on any given day.
 
