@@ -7,7 +7,9 @@ I am currently employed as **Forward Deployed Software Engineer** at a rapidly g
 
 My current role involves software development at a rapid speed - sometimes I deliver custom feature requests within *24-48 hours*, with the daily challenge of balancing speed, proficiency, clean code, and feasibility given the resources I have on any given day.
 
-I am a strong communicator. I work daily with the support team, customer success managers, product team, core engineers and customers (who are typically engineering leaders in their own world) in order to understand and translate specific needs and pain points into a software driven solution.
+I am a strong communicator. I work daily with the support team, customer success managers, product team, core engineers and customers (who are typically engineering leaders in their own world) in order to understand and translate specific needs and pain points into a software driven solution. 
+
+Even though I work in an engineering world, my first love is for people. People are complicated, deep, complex, and a joy to work with. My speciality lies within the intersection of people and engineered solutions.
 
 I also:
 - Troubleshoot bugs and features alongside core engineering teams
