@@ -68,9 +68,4 @@ This means the below are a range of my skills from familiar to proficient. Pleas
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Misc
-![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-### It looks like I code a lot, right?
-Actually, no. I've obscured my coding days chart - I hope you understand. I want to challenge you: does my frequency of code or total output of code align with your company's overall business goals? 
-
-If that confuses you, let's talk about it. I'd love to change your mind. 
+![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
