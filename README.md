@@ -17,7 +17,7 @@ I also:
 - Touch on bits and pieces of the deployment pipeline like Prefect.io, Bugsnag, Docker, AWS, and more
 - Must learn quickly what I don't know and translate that knowledge into words that a customer can easily understand
 - Work well under pressure. I must always provide an answer and software driven solution for the customer and provide that in a calm, collected, and cheerful persona
-- Work in service level agreements ranging from 24 hours out to one week. I work in a fast and rapid paced environment, and I do it cheerfully with my team. 
+- Work in service level agreements ranging from 24 hours out to one week. I work in a rapid and face paced environment, and I do it cheerfully with my team. 
 
 That's about what I do in a nutshell!
 
